@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Guido</h1>
-<h3 align="center">Estudante de Engenharia de Computação do Brasil</h3>
+<h3 align="center">Estudante de Engenharia de Computação no Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guidomoreira&label=Profile%20views&color=0e75b6&style=flat" alt="guidomoreira" /> </p>
 
