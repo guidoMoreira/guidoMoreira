@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guidomoreira&label=Profile%20views&color=0e75b6&style=flat" alt="guidomoreira" /> </p>
 
-- 🌱 I’m currently learning **Web, Banco de dados, Sistemas distribuidos, VHDL**
+- 🌱 Recentemente aprendi **Web, Banco de dados, Sistemas distribuidos, VHDL, Sistemas Inteligentes, sistemas microcontroladpst, entre outros.**
 
 - 🤝 Estou procurando por um **Estagio**
 
